@@ -1,4 +1,9 @@
-HELP.md
+node_modules/
+dist/
+artifacts/
+coverage/
+reports/
+.DS_StoreHELP.md
 target/
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
